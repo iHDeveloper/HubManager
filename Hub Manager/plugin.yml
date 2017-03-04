@@ -1,0 +1,10 @@
+name: HubManager
+version: 1.0
+main: tk.silvertech.plugin.HubManager
+author: SilverTech || Dev Team (iHDeveloper)
+
+commands:
+ hubmanager:
+  usage: /<command>
+  description: The white list command.
+  aliases: manager

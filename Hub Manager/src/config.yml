@@ -1,0 +1,24 @@
+chat:
+ settings:
+  title: '&7&lServer Name'
+join-message:
+ enable: true
+ title: '&3&lExemplary &a&lMC'
+ subtitle: '&aWelcome to the server'
+ message: '&aWelcome Back'
+whitelist:
+ enable: false
+ list:
+ - iHDeveloper
+#teleporter:
+# list:
+# - 1
+# items:
+#  item-1:
+#   amount: 1
+#   type: 0
+#   sort: 5
+#   name: hello
+#   description:
+#   - Hello
+#   - World
